@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-transition {
+    transition: all 0.3s ease; /* This applies a 0.3-second transition to all properties (size, color, etc.) */
+}
